@@ -2,6 +2,7 @@
 - [支付宝开放平台](https://open.alipay.com/)
 
 #### 文档
+- [开发文档（V3版）](https://opendocs.alipay.com/open-v3)
 - [蚂蚁金服开放平台 node sdk](https://www.yuque.com/chenqiu/alipay-node-sdk/config-plantform)
 
 #### 文章
