@@ -1,5 +1,6 @@
 #### 网站
 - [支付宝开放平台](https://open.alipay.com/)
+- [应用是否完成接入准备](https://open.alipay.com/api/detail?code=I1080300001000041016)
 
 #### 文档
 - [接入准备](https://opendocs.alipay.com/support/01ratu)
