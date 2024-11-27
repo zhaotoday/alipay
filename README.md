@@ -11,6 +11,7 @@
 #### 文章
 - [node+vue实现支付宝支付(沙箱)完整版,亲测可用](https://blog.csdn.net/lllomh/article/details/114283246)
 - [Springboot 支付宝支付对接实践](https://juejin.cn/post/7289662476731793468)
+- [Spring Boot集成支付宝电脑网站支付功能](https://juejin.cn/post/7143042804367753253)
 
 #### 库
 - [Alipay SDK](https://github.com/alipay/alipay-sdk-nodejs-all)
