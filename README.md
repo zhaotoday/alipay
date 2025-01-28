@@ -18,6 +18,7 @@
 
 #### 视频
 - [支付宝支付](https://www.bilibili.com/video/BV12Wq8YbEsV)
+- [web前端支付功能完整流程](https://www.bilibili.com/video/BV1ka4y1M7Kc/)
 
 #### 库
 - [Alipay SDK](https://github.com/alipay/alipay-sdk-nodejs-all)
