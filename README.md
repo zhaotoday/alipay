@@ -16,6 +16,9 @@
 - [Springboot 支付宝支付对接实践](https://juejin.cn/post/7289662476731793468)
 - [Spring Boot集成支付宝电脑网站支付功能](https://juejin.cn/post/7143042804367753253)
 
+#### 视频
+- [支付宝支付](https://www.bilibili.com/video/BV12Wq8YbEsV)
+
 #### 库
 - [Alipay SDK](https://github.com/alipay/alipay-sdk-nodejs-all)
 
