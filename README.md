@@ -11,6 +11,7 @@
 - [电脑网站支付](https://open.alipay.com/api/detail?code=I1080300001000041203&index=0)
 
 #### 文章
+- [支付新手常犯的十个错误](https://juejin.cn/post/7511036916898267174)
 - [【推荐】【支付流程】微信 && 支付宝&& 银联开发前的流程调研](https://juejin.cn/post/7290373059604922428)
 - [node+vue实现支付宝支付(沙箱)完整版,亲测可用](https://blog.csdn.net/lllomh/article/details/114283246)
 - [Springboot 支付宝支付对接实践](https://juejin.cn/post/7289662476731793468)
