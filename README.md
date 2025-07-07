@@ -25,4 +25,5 @@
 - [Alipay SDK](https://github.com/alipay/alipay-sdk-nodejs-all)
 
 #### 工具
+- [API 集成工具集一览表](https://opendocs.alipay.com/open/02np8f)
 - [密钥工具下载](https://opendocs.alipay.com/common/02kipk)
