@@ -1,5 +1,6 @@
 #### 网站
 - [支付宝开放平台](https://open.alipay.com/)
+- [支付宝商家平台](https://b.alipay.com/page/portal/home)
 - [应用是否完成接入准备](https://open.alipay.com/api/detail?code=I1080300001000041016)
 
 #### 文档
