@@ -11,6 +11,7 @@
 - [手机网站支付](https://open.alipay.com/api/detail?code=I1080300001000041949&index=0)
 - [电脑网站支付](https://open.alipay.com/api/detail?code=I1080300001000041203&index=0)
 - [alipay.trade.page.pay(统一收单下单并支付页面接口)](https://opendocs.alipay.com/apis/009zih)
+- [技术接入指南](https://opendocs.alipay.com/common/02mse2)
 
 #### 文章
 - [支付新手常犯的十个错误](https://juejin.cn/post/7511036916898267174)
