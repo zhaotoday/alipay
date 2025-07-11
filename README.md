@@ -31,3 +31,6 @@
 - [API 集成工具集一览表](https://opendocs.alipay.com/open/02np8f)
 - [密钥工具下载](https://opendocs.alipay.com/common/02kipk)
 - [API 在线调试](https://open.alipay.com/api/apiDebug?apiNames=alipay.trade.page.pay)
+
+#### 问题
+- [该商家收款额度已暂调整为0，请联系商家补全资料提升收款额度。](https://open.alipay.com/portal/forum/post/190701063)
