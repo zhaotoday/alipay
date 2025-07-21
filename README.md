@@ -34,3 +34,6 @@
 
 #### 问题
 - [该商家收款额度已暂调整为0，请联系商家补全资料提升收款额度。](https://open.alipay.com/portal/forum/post/190701063)
+
+#### 其他
+- [PayQrcode](https://github.com/uxiaohan/PayQrcode)
