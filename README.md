@@ -24,8 +24,9 @@
 - [支付宝支付](https://www.bilibili.com/video/BV12Wq8YbEsV)
 - [web前端支付功能完整流程](https://www.bilibili.com/video/BV1ka4y1M7Kc/)
 
-#### 库
+#### 开源
 - [Alipay SDK](https://github.com/alipay/alipay-sdk-nodejs-all)
+- [DaxPay](https://doc.daxpay.cn/)
 
 #### 工具
 - [API 集成工具集一览表](https://opendocs.alipay.com/open/02np8f)
